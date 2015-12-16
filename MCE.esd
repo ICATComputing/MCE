@@ -1,0 +1,6 @@
+<solution name="MCE">
+  <reminder />
+  <build>
+    <project name="MCE" major="1" minor="0" build="36" revision="*" />
+  </build>
+</solution>
